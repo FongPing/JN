@@ -1,0 +1,5 @@
+message Doctor{
+	required string id = 1;
+	required string name = 2;
+	required string hosName = 3;
+}
